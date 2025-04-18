@@ -1,0 +1,19 @@
+h2{
+  background-color: blue;
+}
+table,
+tr,
+th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+ul{
+  list-style-type: none;
+  margin-top:0px ;
+padding: 0px;
+text-align: center;
+}
+form,label{
+display:block
+}
+
